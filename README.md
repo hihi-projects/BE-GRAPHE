@@ -16,7 +16,7 @@ You first need to register and then log in to the platform you want. The steps t
      [https://gitea.typename.fr/INSA/be-graphes.git](https://gitea.typename.fr/INSA/be-graphes.git)
 3. Choose the name you want for the repository.
 4. Click *Begin import*.
-5. Wait for completion... Done!
+5. Wait for completion... Done!!
 
 #### Bitbucket
 
