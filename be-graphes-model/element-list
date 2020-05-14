@@ -1,0 +1,7 @@
+org.insa.graphs.gui
+org.insa.graphs.gui.drawing
+org.insa.graphs.gui.drawing.components
+org.insa.graphs.gui.drawing.overlays
+org.insa.graphs.gui.observers
+org.insa.graphs.gui.simple
+org.insa.graphs.gui.utils
