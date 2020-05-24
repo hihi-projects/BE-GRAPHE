@@ -60,7 +60,7 @@ public class Label implements Comparable<Label> {
 	
 	// on utilise même un getteur pour obtenir le cout total : CT
 	
-	public float getCT() {
+	public double getCT() {
 		return this.cout;
 	}
 	

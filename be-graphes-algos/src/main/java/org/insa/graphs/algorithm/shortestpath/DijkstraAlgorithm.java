@@ -149,6 +149,5 @@ public class DijkstraAlgorithm extends ShortestPathAlgorithm {
         
         return sol;
     }
-
 }
 
